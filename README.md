@@ -1,3 +1,6 @@
+# Start back-end API server before running `test`
+- `node app.js`
+
 # eBit Labs back-end technical exercise
 
 Thanks for applying for a front-end developer role at eBit Labs! This exercise is designed to allow you to demonstrate your development skills and for us to see how you think about solving a technical problem. It shouldn't take more than an hour to complete, and we'll use it as a starting point for our technical interview.
